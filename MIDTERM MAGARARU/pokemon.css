@@ -1,0 +1,191 @@
+body {
+
+    background-image: url(pokeball.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.poke-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex: 1 0 20%;
+    margin: 12px;
+
+
+}
+
+img {
+    height: 230px;
+    margin: 10px;
+}
+
+
+.container-1 {
+    background-color: Peru;
+    height: 250px;
+    width: 250px;
+    margin: 12px;
+}
+
+.container-1:hover {
+    background-image: url(poke\ bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+
+.container-2 {
+    background-color: Orange;
+    height: 250px;
+    width: 250px;
+    margin: 12px;
+}
+
+.container-2:hover {
+    background-image: url(poke\ bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.container-3 {
+    background-color: LightPink;
+    height: 250px;
+    width: 250px;
+    margin: 12px;
+}
+
+.container-3:hover {
+    background-image: url(poke\ bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container-4 {
+    background-color: BlueViolet;
+    height: 250px;
+    width: 250px;
+    margin: 12px;
+}
+
+.container-4:hover {
+    background-image: url(poke\ bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container-5 {
+    background-color: Gold;
+    height: 250px;
+    width: 250px;
+    margin: 12px;
+}
+
+.container-5:hover {
+    background-image: url(poke\ bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.container-6 {
+    background-color: NavajoWhite;
+    height: 250px;
+    width: 250px;
+    margin: 12px;
+}
+
+.container-6:hover {
+    background-image: url(poke\ bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.container-7 {
+    background-color: LemonChiffon;
+    height: 250px;
+    width: 250px;
+    margin: 12px;
+}
+
+.container-7:hover {
+    background-image: url(poke\ bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.container-8 {
+    background-color: Aqua;
+    height: 250px;
+    width: 250px;
+    margin: 12px;
+}
+
+.container-8:hover {
+    background-image: url(poke\ bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.container-9 {
+    background-color: RoyalBlue;
+    height: 250px;
+    width: 250px;
+    margin: 12px;
+}
+
+.container-9:hover {
+    background-image: url(poke\ bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.container-10 {
+    background-color: Tan;
+    height: 250px;
+    width: 250px;
+    margin: 12px;
+}
+
+.container-10:hover {
+    background-image: url(poke\ bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.container-11 {
+    background-color: RebeccaPurple;
+    height: 250px;
+    width: 250px;
+    margin: 12px;
+}
+
+.container-11:hover {
+    background-image: url(poke\ bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.container-12 {
+    background-color: DodgerBlue;
+    height: 250px;
+    width: 250px;
+    margin: 12px;
+}
+
+.container-12:hover {
+    background-image: url(poke\ bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
